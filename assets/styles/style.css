@@ -134,3 +134,9 @@ h1 {
 		margin-right: 50px;
 	}
 }
+
+@media screen and (max-width: 400px) {
+	body {
+		overflow: hidden;
+	}
+}
