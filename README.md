@@ -5,7 +5,9 @@
 # Todo List
 
 That's the frontend developer's sweet spot. You have a new framework, you wanna try it out and you begin by creating a simple todo list application 😄.
-I've done this one with Javascript vanilla. It's simple, intuitive and nicely decorated 😎
+I've done this one with Javascript vanilla. It's simple, intuitive and nicely decorated 😎 <br>
+There's data persistence. I've also used `window.localStorage` to store the user's items to make it functionnal and usefull.
+
 ## Deployment 🛫
 
 The project is live on Netlify, you can try out the different breakpoints 😉
